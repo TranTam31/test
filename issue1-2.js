@@ -1,1 +1,0 @@
-console.log("Nếu mà nó tiếp tục tạo commit thì sẽ như nào?")
